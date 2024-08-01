@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#scanner-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#preview {
+    width: 100%;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
